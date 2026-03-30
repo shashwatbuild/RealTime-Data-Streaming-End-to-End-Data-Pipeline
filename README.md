@@ -11,6 +11,19 @@
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.12+-blue?logo=python"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-3.0+-017CEE?logo=apache-airflow"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-Streaming-black?logo=apache-kafka"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-Processing-orange?logo=apache-spark"/>
+<img src="https://img.shields.io/badge/Cassandra-NoSQL-blue?logo=apache-cassandra"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql"/>
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker"/>
+<img src="https://img.shields.io/badge/License-MIT-green"/>
+
+</p>
+
 ## 📌 Table of Contents
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
