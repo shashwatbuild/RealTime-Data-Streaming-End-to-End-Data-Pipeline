@@ -1,4 +1,15 @@
-# 🚀 RealTime-Data-Streaming-End-to-End-Data-Pipeline
+# 🚀 RealTime Data Streaming End-to-End Data Pipeline
+
+> ⚡ A scalable, real-time data engineering pipeline using Kafka, Spark, Airflow, and Docker.
+
+![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-3.0+-017CEE?logo=apache-airflow)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-Streaming-black?logo=apache-kafka)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Processing-orange?logo=apache-spark)
+![Cassandra](https://img.shields.io/badge/Cassandra-NoSQL-blue?logo=apache-cassandra)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
