@@ -78,10 +78,3 @@ By building this project, you’ll gain practical experience in:
 
 ---
 
-## 🚀 Getting Started
-
-Follow these simple steps to run the entire pipeline locally:
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/airscholar/e2e-data-engineering.git
